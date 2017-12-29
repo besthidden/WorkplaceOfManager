@@ -1,0 +1,2 @@
+# WorkplaceOfManager
+рабочее место менеджера
